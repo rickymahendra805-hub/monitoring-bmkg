@@ -1,0 +1,57 @@
+[
+    {
+        "wilayah": "Jakarta",
+        "tanggal": "2026-10-05",
+        "waktu": "07:00",
+        "suhu": 28.5,
+        "kelembapan": 80,
+        "curah_hujan": 1.2,
+        "kecepatan_angin": 10,
+        "kondisi_cuaca": "Berawan",
+        "arah_angin": "Barat Laut"
+    },
+    {
+        "wilayah": "Jakarta",
+        "tanggal": "2026-10-05",
+        "waktu": "10:00",
+        "suhu": 30.1,
+        "kelembapan": 74,
+        "curah_hujan": 0,
+        "kecepatan_angin": 12,
+        "kondisi_cuaca": "Cerah Berawan",
+        "arah_angin": "Timur Laut"
+    },
+    {
+        "wilayah": "Jakarta",
+        "tanggal": "2026-10-05",
+        "waktu": "13:00",
+        "suhu": 31,
+        "kelembapan": 70,
+        "curah_hujan": 2.5,
+        "kecepatan_angin": 14,
+        "kondisi_cuaca": "Hujan Ringan",
+        "arah_angin": "Timur"
+    },
+    {
+        "wilayah": "Bandung",
+        "tanggal": "2026-10-05",
+        "waktu": "13:00",
+        "suhu": 24.8,
+        "kelembapan": 82,
+        "curah_hujan": 4.1,
+        "kecepatan_angin": 9,
+        "kondisi_cuaca": "Hujan Ringan",
+        "arah_angin": "Selatan"
+    },
+    {
+        "wilayah": "Surabaya",
+        "tanggal": "2026-10-05",
+        "waktu": "13:00",
+        "suhu": 31.8,
+        "kelembapan": 68,
+        "curah_hujan": 0,
+        "kecepatan_angin": 16,
+        "kondisi_cuaca": "Cerah",
+        "arah_angin": "Timur"
+    }
+]
